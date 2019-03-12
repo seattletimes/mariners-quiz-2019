@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": 1,
+    "question": "Growing up, I was such a big fan of ‘The Kid’ I actually called the Kingdome and asked to speak with him. Turns out, I did myself one better: I got to share an outfield with the legend himself, Ken Griffey Jr., after I was drafted by the Cincinnati Reds.",
+    "name": "Jay Bruce, OF",
+    "finalimage": "./assets/jaybrucecard_clue.jpg",
+    "hintimage": "./assets/jaybrucecard_clue.jpg",
+    "image": "./assets/jaybrucecard_final.jpg"
+  },
+  {
+    "id": 2,
+    "title": 2,
+    "question": "I’m the opposite of Mr. Irrelevant — drafted No. 1 overall — but you can’t exactly say the same about my MLB career. The Mariners will be my third team since breaking in to the big leagues in 2013, and they’ll be hoping I can flash the potential I showed with the Orioles in the second half of 2017.",
+    "name": "Tim Beckham, IF",
+    "finalimage": "./assets/timbeckhamcard_clue.jpg",
+    "hintimage": "./assets/timbeckhamcard_clue.jpg",
+    "image": "./assets/timbeckhamcard_final.jpg"
+  },
+  {
+    "id": 3,
+    "title": 3,
+    "question": "Who will be tasked with filling the shoes of Edwin Diaz? Well, I have one leg up on my competition: I’m the only player on the roster with double-digit saves.",
+    "name": "Hunter Strickland, RHP",
+    "finalimage": "./assets/hunterstricklandcard_clue.jpg",
+    "hintimage": "./assets/hunterstricklandcard_clue.jpg",
+    "image": "./assets/hunterstricklandcard_final.jpg"
+  },
+  {
+    "id": 4,
+    "title": 4,
+    "question": "I stand about six inches shorter than the lefty I was traded for, but — with a nasty slider headlining my repertoire — baseball evaluators are arguably even more bullish about my potential.",
+    "name": "Justus Sheffield, LHP",
+    "finalimage": "./assets/justussheffieldcard_clue.jpg",
+    "hintimage": "./assets/justussheffieldcard_clue.jpg",
+    "image": "./assets/justussheffieldcard_final.jpg"
+  },
+  {
+    "id": 5,
+    "title": 5,
+    "question": "You might know me from my first tenure in Seattle. I wouldn’t blame you if you missed me, though; it lasted only a little longer than it takes for me to swipe a base, which I did 40 times in the first full-time role of my career last season.",
+    "name": "Mallex Smith, OF",
+    "finalimage": "./assets/mallexsmithcard_clue.jpg",
+    "hintimage": "./assets/mallexsmithcard_clue.jpg",
+    "image": "./assets/mallexsmithcard_final.jpg"
+  },
+  {
+    "id": 6,
+    "title": 6,
+    "question": "You don’t want to step into the box against my triple-digit heater. Mostly because I don’t always seem to know where it’s going. At 22, I was the youngest player in Mets major-league spring training. If I can harness my command in the bullpen, the Mariners hope I’ll show them why.",
+    "name": "Gerson Bautista, RHP",
+    "finalimage": "./assets/gersonbautistacard_clue.jpg",
+    "hintimage": "./assets/gersonbautistacard_clue.jpg",
+    "image": "./assets/gersonbautistacard_final.jpg"
+  },
+  {
+    "id": 7,
+    "title": 7
+  },
+  {
+    "id": 8,
+    "title": 8
+  },
+  {
+    "id": 9,
+    "title": 9
+  },
+  {
+    "id": 10,
+    "title": 10
+  },
+  {
+    "id": 11,
+    "title": 11
+  },
+  {
+    "id": 12,
+    "title": 12
+  },
+  {
+    "id": 13,
+    "title": 13
+  },
+  {
+    "id": 14,
+    "title": 14
+  },
+  {
+    "id": 15,
+    "title": 15
+  }
+]

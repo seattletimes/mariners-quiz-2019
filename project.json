@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "piss-poor-play"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2019/sports/mariners-quiz-2019"
+    }
+  },
+  "title": "Who are these guys? Test your knowledge of the new-look 2019 Mariners",
+  "description": "Guess your way through the Mariners newcomers with our quiz.",
+  "url": "https://projects.seattletimes.com/2019/sports/mariners-quiz-2019/",
+  "slug": "mariners-quiz-2019",
+  "tags": [ "quiz" ],
+  "image": "assets/Mariners-teez-PlayerQuiz.jpg",
+  "sheets": ["10hMUzds-b_eQ3gXMGUX7vZH4bEs8vG5uQ0m6RC-2k58"],
+  "production": false,
+  "embedded": false
+}
