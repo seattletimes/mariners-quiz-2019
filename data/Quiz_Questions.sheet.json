@@ -3,79 +3,109 @@
     "id": 1,
     "title": 1,
     "question": "Growing up, I was such a big fan of ‘The Kid’ I actually called the Kingdome and asked to speak with him. Turns out, I did myself one better: I got to share an outfield with the legend himself, Ken Griffey Jr., after I was drafted by the Cincinnati Reds.",
-    "name": "Jay Bruce, OF",
-    "finalimage": "./assets/jaybrucecard_clue.jpg",
+    "answer": "Jay Bruce, OF",
+    "image": "./assets/positionplayercard.jpg",
     "hintimage": "./assets/jaybrucecard_clue.jpg",
-    "image": "./assets/jaybrucecard_final.jpg"
+    "finalimage": "./assets/jaybrucecard_final.jpg"
   },
   {
     "id": 2,
     "title": 2,
     "question": "I’m the opposite of Mr. Irrelevant — drafted No. 1 overall — but you can’t exactly say the same about my MLB career. The Mariners will be my third team since breaking in to the big leagues in 2013, and they’ll be hoping I can flash the potential I showed with the Orioles in the second half of 2017.",
-    "name": "Tim Beckham, IF",
-    "finalimage": "./assets/timbeckhamcard_clue.jpg",
+    "answer": "Tim Beckham, IF",
+    "image": "./assets/positionplayercard.jpg",
     "hintimage": "./assets/timbeckhamcard_clue.jpg",
-    "image": "./assets/timbeckhamcard_final.jpg"
+    "finalimage": "./assets/timbeckhamcard_final.jpg"
   },
   {
     "id": 3,
     "title": 3,
     "question": "Who will be tasked with filling the shoes of Edwin Diaz? Well, I have one leg up on my competition: I’m the only player on the roster with double-digit saves.",
-    "name": "Hunter Strickland, RHP",
-    "finalimage": "./assets/hunterstricklandcard_clue.jpg",
+    "answer": "Hunter Strickland, RHP",
+    "image": "./assets/pitchercard.jpg",
     "hintimage": "./assets/hunterstricklandcard_clue.jpg",
-    "image": "./assets/hunterstricklandcard_final.jpg"
+    "finalimage": "./assets/hunterstricklandcard_final.jpg"
   },
   {
     "id": 4,
     "title": 4,
-    "question": "I stand about six inches shorter than the lefty I was traded for, but — with a nasty slider headlining my repertoire — baseball evaluators are arguably even more bullish about my potential.",
-    "name": "Justus Sheffield, LHP",
-    "finalimage": "./assets/justussheffieldcard_clue.jpg",
+    "question": "I stand about six inches shorter than the lefty I was traded for, but — with a nasty slider headlining my repertoire — baseball evaluators are arguably even more bullish about my potential. Despite my size, I’ve been on scouts’ radars since I became the first Tennessean to be named Gatorade National Baseball Player of the Year back in 2014.",
+    "answer": "Justus Sheffield, LHP",
+    "image": "./assets/pitchercard.jpg",
     "hintimage": "./assets/justussheffieldcard_clue.jpg",
-    "image": "./assets/justussheffieldcard_final.jpg"
+    "finalimage": "./assets/justussheffieldcard_final.jpg"
   },
   {
     "id": 5,
     "title": 5,
     "question": "You might know me from my first tenure in Seattle. I wouldn’t blame you if you missed me, though; it lasted only a little longer than it takes for me to swipe a base, which I did 40 times in the first full-time role of my career last season.",
-    "name": "Mallex Smith, OF",
-    "finalimage": "./assets/mallexsmithcard_clue.jpg",
+    "answer": "Mallex Smith, OF",
+    "image": "./assets/positionplayercard.jpg",
     "hintimage": "./assets/mallexsmithcard_clue.jpg",
-    "image": "./assets/mallexsmithcard_final.jpg"
+    "finalimage": "./assets/mallexsmithcard_final.jpg"
   },
   {
     "id": 6,
     "title": 6,
     "question": "You don’t want to step into the box against my triple-digit heater. Mostly because I don’t always seem to know where it’s going. At 22, I was the youngest player in Mets major-league spring training. If I can harness my command in the bullpen, the Mariners hope I’ll show them why.",
-    "name": "Gerson Bautista, RHP",
-    "finalimage": "./assets/gersonbautistacard_clue.jpg",
+    "answer": "Gerson Bautista, RHP",
+    "image": "./assets/pitchercard.jpg",
     "hintimage": "./assets/gersonbautistacard_clue.jpg",
-    "image": "./assets/gersonbautistacard_final.jpg"
+    "finalimage": "./assets/gersonbautistacard_final.jpg"
   },
   {
     "id": 7,
-    "title": 7
+    "title": 7,
+    "question": "Having played for three different teams in 2018, I’m getting used to adjusting my head of hair to new ballcaps. With Ben Gamel, Taylor Motter and their glorious gold locks shipped out of town, I heard there was an opening in Seattle for someone with some serious flow. To get a glimpse, you’ll have to catch me with my cap off in the ‘pen.",
+    "answer": "Cory Gearrin, RHP",
+    "image": "./assets/pitchercard.jpg",
+    "hintimage": "./assets/corygearrincard_clue.jpg",
+    "finalimage": "./assets/corygearrincard_final.jpg"
   },
   {
     "id": 8,
-    "title": 8
+    "title": 8,
+    "question": "After toiling in the minors for five years, the White Sox picked me up in the Rule 5 draft. Then it took me another three years to break into the big leagues. But it looks like I’ll finally get my first full-time opportunity for the Mariners this season, after a career-best year at the plate.",
+    "answer": "Omar Narvaez, C",
+    "image": "./assets/positionplayercard.jpg",
+    "hintimage": "./assets/omarnarvaezcard_clue.jpg",
+    "finalimage": "./assets/omarnarvaezcard_final.jpg"
   },
   {
     "id": 9,
-    "title": 9
+    "title": 9,
+    "question": "After I was drafted out of high school in the third round, my local newspaper declared me “one of the greatest athletes” in the history of my high school. It’s no wonder. Not only did I star in baseball, basketball <em>and</em> football, after being drafted as a shortstop, I’ve since proven to be a reliable arm in the back end of MLB bullpens.",
+    "answer": "Sam Tuivailala, RHP",
+    "image": "./assets/pitchercard.jpg",
+    "hintimage": "./assets/samtuivailalacard_clue.jpg",
+    "finalimage": "./assets/samtuivailalacard_final.jpg"
   },
   {
     "id": 10,
-    "title": 10
+    "title": 10,
+    "question": "Don’t try to cage my bird. I like to flap my chicken wing as I round the bases every time I go yard — and only Giancarlo Stanton and Nelson Cruz have done so more than I have since 2014.",
+    "answer": "Edwin Encarnacion, 1B/DH",
+    "image": "./assets/positionplayercard.jpg",
+    "hintimage": "./assets/edwinencarnacioncard_clue.jpg",
+    "finalimage": "./assets/edwinencarnacioncard_final.jpg"
   },
   {
     "id": 11,
-    "title": 11
+    "title": 11,
+    "question": "The next Japanese phenom — Who, you say? Me? As far back as 2009, MLB and NPB teams have been salivating over my left arm. Out of high school, I nearly became the first Japanese player to forgo the Nippon Pro Baseball draft and go directly to MLB but ultimately decided against it. After eight years with the Seibu Lions, I've finally arrived.",
+    "answer": "Yusei Kikuchi, LHP",
+    "image": "./assets/pitchercard.jpg",
+    "hintimage": "./assets/yuseikikuchicard_clue.jpg",
+    "finalimage": "./assets/yuseikikuchicard_final.jpg"
   },
   {
     "id": 12,
-    "title": 12
+    "title": 12,
+    "question": "I was practically meant to be a Mariner. Even before he traded for me, Jerry Dipoto says he had called me the Mariners’ shortstop of the future. Not only that, but I rocked the navy blue and teal in Little League, too. But, I’ll have to wait to put it on again, as, at least for now, you’ll find me flashing the leather a little south of T-Mobile Park.",
+    "answer": "J.P. Crawford, SS",
+    "image": "./assets/positionplayercard.jpg",
+    "hintimage": "./assets/jpcrawfordcard_clue.jpg",
+    "finalimage": "./assets/jpcrawfordcard_final.jpg"
   },
   {
     "id": 13,
@@ -83,10 +113,18 @@
   },
   {
     "id": 14,
-    "title": 14
+    "title": 14,
+    "answer": "Shed Long, INF",
+    "image": "./assets/positionplayercard.jpg",
+    "hintimage": "./assets/shedlongcard_clue.jpg",
+    "finalimage": "./assets/shedlongcard_final.jpg"
   },
   {
     "id": 15,
-    "title": 15
+    "title": 15,
+    "answer": "Domingo Santana, OF",
+    "image": "./assets/positionplayercard.jpg",
+    "hintimage": "./assets/domingosantanacard_clue.jpg",
+    "finalimage": "./assets/domingosantanacard_final.jpg"
   }
 ]

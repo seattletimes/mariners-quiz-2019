@@ -1,13 +1,18 @@
-<div class="inner">
-  <div class="inset-image">
-    <img src="./assets/quiz/{{image}}">
-  </div>
+<div class="inner-box">
 
-  <div class="question-inner">
-    <div class="answer">
-      <div class="index"></div>
-      <span class="highlight correct">{{#hooray}}Right!{{/hooray}}</span>
-      <span class="highlight wrong">{{^hooray}}Wrong.{{/hooray}}</span>
+    <div class="inset-image">
+      {{#storyurl}}<a href="{{storyurl}}" target="_blank"><img src="{{finalimage}}"></a>{{/storyurl}}
+      {{^storyurl}}<img src="{{finalimage}}">{{/storyurl}}
+    </div>
+
+    <div class="inner">
+
+      <div class="highlight">
+        <span class="highlight correct">{{#hooray}}<i class="fa fa-check-square-o"></i>
+Right!{{/hooray}}</span>
+        <span class="highlight wrong">{{^hooray}}<i class="fa fa-times"></i>
+Wrong.{{/hooray}}</span>
+      </div>
 
       <div class="answer-box">
         <span class="correct-answer">

@@ -64,7 +64,9 @@
         json.Quiz_Questions.forEach(function(q) {
           quizData[q.id] = {
             "question": q.question,
-            "image": q.image
+            "image": q.image,
+            "hintimage": q.hintimage
+            "finalimage": q.finalimage
           };
         });
         json.Quiz_Answers.forEach(function(a, index) {
@@ -73,6 +75,7 @@
           var answer = {
             "answer": a.answer,
             "correct": a.correct,
+            "finalimage": a.finalimage
             "id": index
           };
           quizData[id].answers.push(answer);
