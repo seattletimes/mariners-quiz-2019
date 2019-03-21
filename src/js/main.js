@@ -41,6 +41,12 @@ var watchInput = function() {
     $(".submit").addClass("active");
     $(".submit").attr("disabled", false);
   }));
+
+  $(".quiz-box").on("click", ".hint", function() {
+  $(".actual").addClass("active");
+  $(".hint").addClass("active");
+  $(".orig").removeClass("active");
+});
 };
 
 var id = 1;
@@ -63,7 +69,7 @@ var id = 1;
     quizData[id].answers.forEach(function(a) {
       if (a.correct) {
         answerData.answer = a.answer;
-        answerData.image = quizData[id].image;
+        answerData.finalimage = quizData[id].finalimage;
         answerData.description = a.correct;
       }
     });

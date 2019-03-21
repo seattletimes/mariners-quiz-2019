@@ -2,7 +2,7 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "piss-poor-play"
+      "path": "retractively-noiseless"
     },
     "live": {
       "bucket": "projects.seattletimes.com",

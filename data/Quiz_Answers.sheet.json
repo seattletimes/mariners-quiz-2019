@@ -6,8 +6,7 @@
   {
     "id": 1,
     "answer": "Jay Bruce",
-    "description": "fafafafa",
-    "correct": "lalalalalala"
+    "correct": "Despite the speculation after he was included in the return for Edwin Diaz and Robinson Cano, Bruce is in a Mariners uniform on opening day. Whether he’s here on August 1 is another question. But for now, Seattle has a slugging three-time All-Star in its outfield — albeit coming off a below replacement-level season in New York."
   },
   {
     "id": 1,
@@ -54,7 +53,7 @@
   {
     "id": 4,
     "answer": "Justus Sheffield",
-    "correct": "x"
+    "correct": "Baseball is in the Sheffield family genes. His older brother, Jordan, was drafted in the 13th round and is currently in the Dodgers organization. Justus will begin the in the Tacoma rotation, though he could be pitching off the T-Mobile Park mound before the end of 2019. “He has been awesome this spring. His changeup has been a real eye-opener. His confidence and poise have stood out,” Jerry Dipoto recently told The New York Post."
   },
   {
     "id": 4,
@@ -79,7 +78,7 @@
   {
     "id": 5,
     "answer": "Mallex Smith",
-    "correct": "x"
+    "correct": "It took all of 77 minutes for Jerry Dipoto to trade the speedy outfielder the first time he acquired him (in the package for Drew Smyly). Expect him to spend more time in the leadoff spot and roaming center field at T-Mobile Park this time around, following a 3.5-WAR season in Tampa Bay."
   },
   {
     "id": 5,
@@ -103,40 +102,55 @@
     "answer": "Justus Sheffield"
   },
   {
-    "id": 7
+    "id": 7,
+    "answer": "Cory Gearrin",
+    "correct": "After being traded for the second time of 2018, Gearrin struggled in six appearances to finish the season with the A’s. But the former fourth-round pick still posted the second-lowest ERA (3.77) of his career for a full season. The Mariners, however, will be looking for a return to 2017, when Gearrin had a 1.99 ERA over 68 innings of middle relief for the Giants."
   },
   {
-    "id": 7
+    "id": 7,
+    "answer": "Jay Bruce"
   },
   {
-    "id": 7
+    "id": 7,
+    "answer": "Anthony Swarzak"
   },
   {
-    "id": 7
+    "id": 7,
+    "answer": "Dylan Moore"
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Edwin Encarnacion"
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Jay Bruce"
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Omar Narvaez",
+    "correct": "Primarily as the left-handed half of a platoon in Chicago, Narvaez slugged nine home runs with an OPS of .794 in 280 at-bats in 2018 — all career-highs. But no longer does Seattle have one of baseball’s premier defensive catchers in Mike Zunino. By the metric Defensive Runs Saved, only two full-time backstops were worse than Narvaez behind the plate last season."
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Mallex Smith"
   },
   {
-    "id": 9
+    "id": 9,
+    "answer": "Hunter Strickland"
   },
   {
-    "id": 9
+    "id": 9,
+    "answer": "Justus Sheffield"
   },
   {
-    "id": 9
+    "id": 9,
+    "answer": "J.P. Crawford"
   },
   {
-    "id": 9
+    "id": 9,
+    "answer": "Sam Tuivailala",
+    "correct": "Acquired just before the non-waiver trade deadline in hopes of setting up Edwin Diaz during the Mariners’ playoff push, a torn Achilles after five appearances scuttled those plans. Now, Tuivailala is expected to slot into the Seattle bullpen sometime around June, when he is fully recovered."
   },
   {
     "id": 10
@@ -148,7 +162,9 @@
     "id": 10
   },
   {
-    "id": 10
+    "id": 10,
+    "answer": "Edwin Encarnacion",
+    "correct": "The Mariners were the first victim of Encarnacion’s signature home-run trot. He debuted it on his 123rd homer of his career, a grand slam off Hisashi Iwakuma back in a 7-0 Blue Jays win on April 28, 2012. He’s gone on to hit 257 since, breaking out his ‘Edwing’ each time."
   },
   {
     "id": 11
@@ -157,7 +173,9 @@
     "id": 11
   },
   {
-    "id": 11
+    "id": 11,
+    "answer": "Yusei Kikuchi",
+    "correct": "Kikuchi held Major League Baseball in such high regard that, not only was he eager as a teenager to come overseas, he insisted on not using an interpreter while meeting the American media for the first time when he eventually made it — at 27 years old, on a contract unlike any seen before."
   },
   {
     "id": 11
@@ -172,7 +190,14 @@
     "id": 12
   },
   {
-    "id": 12
+    "id": 12,
+    "answer": "J.P. Crawford",
+    "correct": "Crawford, a consensus top-100 prospect since he was selected in the first round of the 2013 MLB draft, has apparently been on the Mariners’ radar for some time. When dreaming up different roster-building scenarios, “In virtually all of those, J.P. Crawford was mentioned as a future shortstop for our team,” Dipoto said on The Wheelhouse podcast. But, with a .214 average in 187 MLB at-bats, Crawford will have to refine his bat to match his defensive prowess. Fun fact: the initials stand for John Paul."
+  },
+  {
+    "id": 13,
+    "answer": "Shed Long",
+    "correct": "Gaedel, the shortest person to ever play in an MLB game at 3-foot-7, wore “⅛” as his number and played entirely for promotional purposes. Long, on the other hand, is exciting enough to be a promotion himself. Starting the season at Triple-A Tacoma, the 5-foot-8 second baseman will move between the infield and outfield to “see if he has the aptitude to move around the field … (and) take advantage of the athleticism and get that bat in the lineup,” Jerry Dipoto told 710 AM this offseason."
   },
   {
     "id": 13
@@ -184,10 +209,9 @@
     "id": 13
   },
   {
-    "id": 13
-  },
-  {
-    "id": 14
+    "id": 14,
+    "answer": "Dylan Moore",
+    "correct": "Have you heard of me? Wikipedia hasn’t! I’m the only player on the active roster without a Wikipedia page. Maybe that’s because I’ve never played a major-league game. But I earned my spot on the roster this spring, getting on-base nine times in 20 at-bats and proving my ability to play all over the field."
   },
   {
     "id": 14
@@ -202,7 +226,9 @@
     "id": 15
   },
   {
-    "id": 15
+    "id": 15,
+    "answer": "Domingo Santana",
+    "correct": "x"
   },
   {
     "id": 15
