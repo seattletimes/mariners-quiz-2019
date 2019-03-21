@@ -1,13 +1,25 @@
+<<<<<<< HEAD
 <div class="inner">
   <div class="img-class">
     <img src="{{finalimage}}">
   </div>
+=======
+<div class="inner-box">
 
-  <div class="question-inner">
-    <div class="answer">
-      <div class="index"></div>
-      <span class="highlight correct">{{#hooray}}Right!{{/hooray}}</span>
-      <span class="highlight wrong">{{^hooray}}Wrong.{{/hooray}}</span>
+    <div class="inset-image">
+      {{#storyurl}}<a href="{{storyurl}}" target="_blank"><img src="{{finalimage}}"></a>{{/storyurl}}
+      {{^storyurl}}<img src="{{finalimage}}">{{/storyurl}}
+    </div>
+>>>>>>> 3450fe5839e3c182e09aa29047a4bba26c954440
+
+    <div class="inner">
+
+      <div class="highlight">
+        <span class="highlight correct">{{#hooray}}<i class="fa fa-check-square-o"></i>
+Right!{{/hooray}}</span>
+        <span class="highlight wrong">{{^hooray}}<i class="fa fa-times"></i>
+Wrong.{{/hooray}}</span>
+      </div>
 
       <div class="answer-box">
         <span class="correct-answer">

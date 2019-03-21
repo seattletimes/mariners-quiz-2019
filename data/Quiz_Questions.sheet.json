@@ -20,7 +20,11 @@
   {
     "id": 3,
     "title": 3,
+<<<<<<< HEAD
     "question": "My only time as a full-time closer came to an end when I broke my hand punching a dugout wall after blowing my second save in three games. But I’ve still got more saves — 19 — than anyone else on the roster, which sets me up to get the first shot at filling the shoes of Edwin Diaz.",
+=======
+    "question": "Who will be tasked with filling the shoes of Edwin Diaz? Well, I have one leg up on my competition: I’m the only player on the roster with double-digit saves.",
+>>>>>>> 3450fe5839e3c182e09aa29047a4bba26c954440
     "answer": "Hunter Strickland, RHP",
     "image": "./assets/pitchercard.jpg",
     "hintimage": "./assets/hunterstricklandcard_clue.jpg",
@@ -119,11 +123,18 @@
   {
     "id": 14,
     "title": 14,
+<<<<<<< HEAD
     "question": "Have you heard of me? Wikipedia hasn’t! I’m the only player on the active roster without a Wikipedia page. Maybe that’s because I’ve never played a major-league game. But I earned my spot on the roster this spring, getting on-base nine times in 20 at-bats and proving my ability to play all over the field.",
     "answer": "Dylan Moore, UTIL",
     "image": "./assets/positionplayercard.jpg",
     "hintimage": "./assets/dylanmoorecard_clue.jpg",
     "finalimage": "./assets/dylanmoorecard_final.jpg"
+=======
+    "answer": "Shed Long, INF",
+    "image": "./assets/positionplayercard.jpg",
+    "hintimage": "./assets/shedlongcard_clue.jpg",
+    "finalimage": "./assets/shedlongcard_final.jpg"
+>>>>>>> 3450fe5839e3c182e09aa29047a4bba26c954440
   },
   {
     "id": 15,

@@ -35,6 +35,13 @@ var showQuestion = function(id) {
   $(".index").html(id + " of " + Object.keys(quizData).length);
 };
 
+// makes hint button functional
+$(".quiz-box").on("click", ".hint", function() {
+  $(".actual").addClass("active");
+  $(".hint").addClass("active");
+  $(".orig").removeClass("active");
+});
+
 // show next button when answer is selected
 var watchInput = function() {
   $(".quiz-box").on("click", "input", (function(){
@@ -60,7 +67,7 @@ var id = 1;
     var answerData = {};
     answerData.question = quizData[id].question;
     var correct = $("input:checked").val();
-    if (correct) { 
+    if (correct) {
       score += 1;
       answerData.hooray = true;
     }
@@ -104,9 +111,9 @@ var id = 1;
       if (score >= result.min && score <= result.max) {
         // display result
         result.score = score;
-        if (result.score > 5) { 
+        if (result.score > 5) {
           result.color = "#589040";
-        } else if (result.score > 2) { 
+        } else if (result.score > 2) {
           result.color = "#F5AE3F";
         } else {
           result.color = "#e12329";
@@ -114,7 +121,7 @@ var id = 1;
         result.total = Object.keys(quizData).length;
 
         $(".question-box").html(ich.overviewTemplate(result));
-        
+
         new Share(".share-results", {
           description: "I scored " + result.score + "/" + result.total + "! " + document.querySelector(`meta[property="og:description"]`).content,
           ui: {

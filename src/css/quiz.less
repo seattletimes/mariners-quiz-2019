@@ -26,7 +26,7 @@ button {
   &.active {
     background: @submit-color;
     cursor: pointer;
-    
+
     &:hover {
       background: darken(@submit-color, 10%);
     }
@@ -39,10 +39,24 @@ button {
   font-size: 14px;
 }
 
+.question-title {
+  padding: 10px 0;
+    font-weight: bold;
+    font-size: 22px;
+    text-transform: uppercase;
+    @media @mobile {
+      padding: 0;
+      text-align: center;
+      padding-top: 10px;
+      // padding: 10px 10px 10px 10px;
+      // float:center;
+    }
+  }
+
 .question-box {
   padding: 0 30px;
   display: inline-block;
-  
+
   .inner {
 
     @media @break {
@@ -60,6 +74,55 @@ button {
     float: left;
     margin-right: 60px;
   }
+
+  .img-class {
+      vertical-align: top;
+      // flex: 0 0 30%;
+      flex: 0 0 260px;
+      // margin: auto;
+      .inner-text {
+        flex: 1 1 0%;
+        // flex: 0 0 50%;
+      }
+      padding-left: 20px;
+      padding-right: 20px;
+      @media @mobile {
+        margin: auto;
+        padding-left: 0px;
+        padding-right: 0px;
+        flex: 0 0 50%;
+      }
+      img {
+        width: 200px;
+        content-align:center;
+        @media @mobile {
+          width: 100px;
+          margin: auto;
+          display: block;
+        }
+      }
+      .orig {
+        // margin-left: 20px;
+        // margin-right: 20px;
+        // width: 200px;
+        display: none;
+        &.active {
+          display: block;
+        }
+      }
+      .actual {
+        // margin-left: 20px;
+        // margin-right: 20px;
+        // width: 200px;
+        display: none;
+        &.active {
+          display: block;
+        }
+      }
+      .final {
+        display:block;
+      }
+    }
 
   .question-inner {
     display: inline-block;
@@ -152,6 +215,9 @@ button {
     margin: 0;
   }
 }
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 3450fe5839e3c182e09aa29047a4bba26c954440

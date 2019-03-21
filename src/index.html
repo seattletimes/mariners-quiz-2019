@@ -64,9 +64,15 @@
         json.Quiz_Questions.forEach(function(q) {
           quizData[q.id] = {
             "question": q.question,
+<<<<<<< HEAD
             "finalimage": q.finalimage,
             "hintimage": q.hintimage,
             "image": q.image
+=======
+            "image": q.image,
+            "hintimage": q.hintimage
+            "finalimage": q.finalimage
+>>>>>>> 3450fe5839e3c182e09aa29047a4bba26c954440
           };
         });
         json.Quiz_Answers.forEach(function(a, index) {
@@ -75,6 +81,7 @@
           var answer = {
             "answer": a.answer,
             "correct": a.correct,
+            "finalimage": a.finalimage
             "id": index
           };
           quizData[id].answers.push(answer);
